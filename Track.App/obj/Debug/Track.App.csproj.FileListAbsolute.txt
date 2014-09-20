@@ -1,0 +1,10 @@
+E:\TrackTest\Track.App\obj\Debug\ResolveAssemblyReference.cache
+E:\TrackTest\Track.App\bin\Debug\Track.App.dll
+E:\TrackTest\Track.App\bin\Debug\Track.App.pdb
+E:\TrackTest\Track.App\bin\Debug\Track.Framework.dll
+E:\TrackTest\Track.App\bin\Debug\Track.Framework.pdb
+E:\TrackTest\Track.App\obj\Debug\Track.App.dll
+E:\TrackTest\Track.App\obj\Debug\Track.App.pdb
+E:\TrackTest\Track.App\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\TrackTest\Track.App\bin\Debug\Goodspeed.Library.dll
+E:\TrackTest\Track.App\bin\Debug\zh-CN\Goodspeed.Library.resources.dll

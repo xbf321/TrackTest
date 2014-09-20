@@ -1,0 +1,8 @@
+E:\TrackTest\TrackTest.Framework\bin\Debug\Track.Framework.dll
+E:\TrackTest\TrackTest.Framework\bin\Debug\Track.Framework.pdb
+E:\TrackTest\TrackTest.Framework\bin\Debug\goodspeed.library.dll
+E:\TrackTest\TrackTest.Framework\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\TrackTest\TrackTest.Framework\bin\Debug\zh-CN\goodspeed.library.resources.dll
+E:\TrackTest\TrackTest.Framework\obj\Debug\ResolveAssemblyReference.cache
+E:\TrackTest\TrackTest.Framework\obj\Debug\Track.Framework.dll
+E:\TrackTest\TrackTest.Framework\obj\Debug\Track.Framework.pdb
